@@ -21,8 +21,6 @@ a {
     color: #5a93cc;
 }
 
-/* header */
-
 .header {
     text-align: center;
 }
@@ -34,8 +32,6 @@ a {
 .main-paragraph {
     font-style: italic;
 }
-
-/* Imagem destaque */
 
 .featured-image {
     text-align: center;
@@ -49,16 +45,12 @@ a {
     background-size: cover;
 }
 
-/* Bibiografia */
-
 .biography-container {
     padding: 25px 0;
     margin: 25px 0;
     border-top: 1px dashed #cecece;
     border-bottom: 1px dashed #cecece;
 }
-
-/* Quotes */
 
 .quotes-container {
     background-color: #181818;
@@ -75,8 +67,6 @@ a {
     font-style: italic;
 }
 
-/* curiosidades */
-
 .curiosities-container {
     margin: 25px 0;
     margin: 25px 0;
@@ -87,8 +77,6 @@ a {
 .curiosities-container li {
     height: 30px;
 }
-
-/* imagem bold */
 
 .img-bold {
     font-weight: bold;
